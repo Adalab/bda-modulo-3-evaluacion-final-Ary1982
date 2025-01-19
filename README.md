@@ -1,8 +1,10 @@
 # bda-modulo-3-evaluacion-final-Ary1982
 bda-modulo-3-evaluacion-final-Ary1982 created by GitHub Classroom
 
-EJERCICIO DE EVALUACIÓN FINAL MODULO 3 
+EJERCICIO DE EVALUACIÓN FINAL - MODULO 3 
 ALUMNA: ARIANNA RASSU
+
+Partendo de dos dataframe de una aerolinea, explorar los datos, limpiarlos y a través de las visualizaciones, responder a unas preguntas.
 
 FASE 1: EXPLORACIÓN Y LIMPIEZA 
 
